@@ -1,0 +1,3 @@
+[submodule "plymouth-themes"]
+	path = plymouth-themes
+	url = https://github.com/YourUser/plymouth-themes.git

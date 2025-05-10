@@ -1,0 +1,20 @@
+
+
+
+[Plymouth Theme]
+Name=Capsule-Corp Dragon Ball
+Description=Dragon Ball-themed Capsule Corp splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/capsule-corp/assets
+ScriptFile=/usr/share/plymouth/themes/capsule-corp/assets/script
+
+[Plymouth Theme]
+Name=Capsule-Corp Dragon Ball
+Description=Dragon Ball–themed Capsule Corp splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/capsule-corp/assets
+ScriptFile=/usr/share/plymouth/themes/capsule-corp/assets/script
