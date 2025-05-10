@@ -1,0 +1,8 @@
+[PLYMOUTH Theme]
+Name=Dragon Ball Z Splash
+Description=Goku–style boot splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dbz-splash/images
+ScriptFile=/usr/share/plymouth/themes/dbz-splash/script/dbz-splash.script

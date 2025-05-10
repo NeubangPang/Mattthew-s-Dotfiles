@@ -1,0 +1,7 @@
+(define (draw-screen)
+  (let* ((img (plymouth-image-loader "dragonball.png")))
+    (plymouth-graphics-erase)
+    (plymouth-graphics-draw-image img 0 0)))
+(define (on-event e)
+  (when (eq? e 'before-splash-screen)
+    (draw-screen)))
